@@ -1,3 +1,3 @@
-public class Practica1 {
+public class Practica2 {
     
 }
